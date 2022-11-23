@@ -32,3 +32,9 @@ This is my collection of useful AutoHotkey scripts, primarily used as lazy short
 ✅ Rapid-fire typing of a phrase with CTRL+9
 
 ✅ Get current cursor co-ordinates
+
+## Instructions
+
+1. Download AutoHotkey from https://www.autohotkey.com/
+2. Clone harveysautohotkeylibrary.ahk
+3. Place in the "shell:startup" folder on Windows to launch automatically
