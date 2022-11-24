@@ -13,7 +13,7 @@ This is my collection of useful AutoHotkey scripts, primarily used as lazy short
 
 ✅ Search Google for highlighted text with CTRL+SHIFT+C
 
-✅ Type the clipboard text by pressing CTRL+ALT+V, useful when clipboard syncing isn't working on Splashtop or a field can't be pasted
+✅ Type the clipboard text by pressing CTRL+ALT+V, useful when clipboard syncing isn't working or a field can't be pasted
 
 ✅ Set the currently active window to always on top with CTRL+SPACE
 
